@@ -2,21 +2,24 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Fox Nose
+tagline:             'Because the fox nose!'
+description: >- # this means to ignore newlines until "baseurl:"
+  A blog on the little things in life — ethics, voting, AI, coffee,
+  and programming.
+url:                 http://127.0.0.1:4000
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jeremy Fox
+  url:               https://twitter.com/jeremydanielfox
+  email:             jeremy.daniel.fox@gmail.com
 
 # Custom vars
 version:             1.0.0
+
+gem: [jekyll-paginate, jekyll-gists]
