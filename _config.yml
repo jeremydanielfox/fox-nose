@@ -9,8 +9,8 @@ tagline:             'Because the fox nose!'
 description: >- # this means to ignore newlines until "baseurl:"
   A blog on the little things in life — ethics, voting, AI, coffee,
   and programming.
-url:                https://jeremydanielfox.github.io/fox-nose/
-baseurl:             ''
+# url:                https://jeremydanielfox.github.io/fox-nose/
+baseurl:             'https://jeremydanielfox.github.io/fox-nose/'
 paginate:            5
 
 # About/contact
