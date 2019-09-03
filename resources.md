@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resources
-permalink: /resources/
 ---
 ## Books
 * [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy-ebook/dp/B0773X7RKB)
