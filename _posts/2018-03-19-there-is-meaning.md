@@ -5,8 +5,7 @@ date:   2018-03-19 13:46:50 -0400
 comments: true
 categories: meaning
 ---
-
-![](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/540616main_pia00452-43_full.jpg)
+{% include image.html url="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/540616main_pia00452-43_full.jpg" description="The Earth as seen from 6 billion kilometers" %}
 
 In 1990, 13 years after leaving the Earth on a journey to interstellar space, the Voyager 1 space probe looked backwards, capturing a glimpse of the planet from which it had come. Reflecting on the image, Carl Sagan [delivered the following piece](https://en.wikipedia.org/wiki/Pale_Blue_Dot#cite_note-Big_Sky-21):
 
@@ -30,4 +29,4 @@ I'm not saying there are no other intelligent lifeforms out there. Rather, I'm p
 
 What is one to do with this realization? To start, we should acknowledge that humanity has the potential to take this accidental meaning that randomly came into existence and spread it throughout the cosmos. If humanity is a boat, the universe is our open ocean -- we are free to explore and travel throughout it. In the absence of the existence of others, this might be our deepest moral imperative. There remain many obstacles for our boat to conquer. We need to watch out for the [dangers](https://nickbostrom.com/existential/risks.html) -- existential risks such as nuclear weapons, superintelligence, and climate change -- that could sink our ship and all the precious hope we carry with us. We need to figure out a way to sail the ship, since our current political structures basically mean there's no one at the helm. And we need to figure out how to do all this without losing the [progress](http://www.bbc.com/news/world-asia-42549687) we've made thus far. If you're searching for meaningful problems to work on, there is no shortage. As we do this, however, we can't forget why we're doing it in the first place -- the love, the laughter, the friendships, and everything else that makes life worth living in the first place.
 
-![](https://kevinalanlamb.files.wordpress.com/2013/04/sailingintothestorm.jpg)
+{% include image.html url="https://kevinalanlamb.files.wordpress.com/2013/04/sailingintothestorm.jpg" description="Us, basically" %}
