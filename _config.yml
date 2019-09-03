@@ -25,3 +25,6 @@ author:
 version:             1.0.0
 
 gem: [jekyll-paginate, jekyll-gists]
+
+# Google Analytics
+google_analytics: UA-146941725-1
