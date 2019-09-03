@@ -1,7 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+# permalink:           pretty
 
 # Setup
 title:               Fox Nose
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             1.0.0
 
-gem: [jekyll-paginate, jekyll-gists]
+# gem: [jekyll-paginate, jekyll-gists]
 
 # Google Analytics
 google_analytics: UA-146941725-1
