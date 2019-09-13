@@ -3,7 +3,7 @@ layout: post
 title:  "Let's (not) start a commune"
 date:   2018-03-01 13:46:50 -0400
 comments: true
-categories: cohousing
+tags: cohousing
 ---
 
 ![](http://mediad.publicbroadcasting.net/p/wunc/files/styles/large/public/201609/03_FullRezDSCF3611_v1.jpg)

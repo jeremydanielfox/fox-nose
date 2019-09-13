@@ -3,7 +3,7 @@ layout: post
 title:  "There is meaning in our universe after all!"
 date:   2018-03-19 13:46:50 -0400
 comments: true
-categories: meaning
+tags: meaning
 ---
 {% include image.html url="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/540616main_pia00452-43_full.jpg" description="The Earth as seen from 6 billion kilometers" %}
 
