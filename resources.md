@@ -14,3 +14,4 @@ title: Resources
 * [Mr Money Mustache](https://www.mrmoneymustache.com)
 * [Stratechery](https://stratechery.com)
 * [80,000 Hours](https://80000hours.org/blog)
+* [Strong Towns](https://www.strongtowns.org)
