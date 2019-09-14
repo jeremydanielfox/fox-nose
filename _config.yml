@@ -6,12 +6,12 @@ permalink:           pretty
 
 # Setup
 title:               Fox Nose
-tagline:             'Because the fox nose!'
+# tagline:             'Because the fox nose!'
 description: >- # this means to ignore newlines until "baseurl:"
   A blog on the little things in life — ethics, voting, AI, coffee,
   and programming.
-# baseurl:                https://jeremydanielfox.github.io/
-url:                  http://127.0.0.1:4000/
+baseurl:                https://jeremydanielfox.github.io/
+# url:                  http://127.0.0.1:4000/
 # baseurl:             '/fox-nose/'
 # baseurl:             ''
 paginate:            5
