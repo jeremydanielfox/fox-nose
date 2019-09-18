@@ -29,6 +29,6 @@ version:             1.0.0
 
 # Google Analytics
 google_analytics: UA-146941725-1
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-seo-tag]
 paginate_path: "page:num"
 
