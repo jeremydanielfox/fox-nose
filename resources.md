@@ -6,6 +6,7 @@ title: Resources
 * [Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy-ebook/dp/B0773X7RKB)
 * [Superintelligence](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=sr_1_2?keywords=Superintelligence+Nick+Bostrom&qid=1567481399&s=gateway&sr=8-2)
 * [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+* [Inadequate Equillibria](https://equilibriabook.com)
 
 
 
