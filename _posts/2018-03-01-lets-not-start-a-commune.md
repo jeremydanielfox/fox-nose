@@ -6,7 +6,7 @@ comments: true
 tags: cohousing
 ---
 
-![](http://mediad.publicbroadcasting.net/p/wunc/files/styles/large/public/201609/03_FullRezDSCF3611_v1.jpg)
+![](https://mediad.publicbroadcasting.net/p/wunc/files/styles/large/public/201609/03_FullRezDSCF3611_v1.jpg)
 
 Bet you thought the communes piece would encourage everyone to start a commune, huh? Guess again.
 
@@ -26,4 +26,4 @@ Imagine your future, co-housing style. Instead of having your friends spread acr
 
 So many things in the world are difficult. Becoming a doctor is difficult, curing cancer is difficult, and climbing a 5.14, that's pretty difficult too. Co-housing—and, by extension, happiness—well, that doesn't have to be so difficult actually, does it?
 
-{% include image.html url="http://gallery.tinyletterapp.com/e62894d7cd82afd5d6ee4eb1d0769b8322342663/images/f3d99ad0-c442-4586-a168-4b0bb57a0a33.jpg" description="Friends shooting the shit on the porch" %}
+{% include image.html url="https://gallery.tinyletterapp.com/e62894d7cd82afd5d6ee4eb1d0769b8322342663/images/f3d99ad0-c442-4586-a168-4b0bb57a0a33.jpg" description="Friends shooting the shit on the porch" %}
