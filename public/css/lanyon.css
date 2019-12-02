@@ -335,7 +335,8 @@ a.sidebar-nav-item:focus {
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  /* Removed because I added this border to the email submission instead */
+  /* border-top: 1px solid #eee; */
 }
 .related-posts {
   padding-left: 0;
@@ -561,3 +562,4 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
