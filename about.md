@@ -7,7 +7,7 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-Hey! Thanks for checking out Fox Nose!
+Hey! Thanks for checking out Many Fox Given!
 
 Questions? [Contact me on Twitter](https://twitter.com/jeremydanielfox).
 
