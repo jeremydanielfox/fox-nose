@@ -15,6 +15,6 @@ And I almost ran with it! [zerofoxgiven.io](https://www.godaddy.com/domainsearch
 
 I say luckily because the truth is, I actually do give a lot of fucks! If you know me, you'll agree that giving fucks is a pretty defining feature of my identity. From excessive college costs to restrictive housing policy, the superiority of approval voting to an almost spiritual hope for humanity's future among the stars, I care about a lot of things! I'm really glad I thought twice before purchasing that domain name, because it would have been much harder to spin a title about not caring into a blog on positive ideas for society.
 
-In other words, for now I have a cheesy name for this blog that I'm pretty with, and I got a free post out of it, too. Furthermore, I estimate only a 40% chance my future self is embarassed by the earnestness of this piece. Win, win, win!
+In other words, for now I have a cheesy name for this blog that I'm pretty happy with, and I got a free post out of it, too. Furthermore, I estimate only a 40% chance my future self is embarassed by the earnestness of this piece. Win, win, win!
 
 So, here's to giving more Fox in the future, because our future is worth giving many Fox about!
