@@ -10,7 +10,7 @@ Quick disclaimer: All opinions in this blog are my own, and are not written on b
 # About me
 By day, I write software for Google Search. By night, however...well that's a whole 'nother story.
 
-<!-- I tend to spend my time thinking about cooperation -- how can we successfully work together? Why do I think about this so much? Well,  -->
+I tend to spend my time thinking about cooperation -- how can we successfully work together? Why do I think about this so much? Well, 
 
 
 # Why did I call this blog Many Fox Given?
