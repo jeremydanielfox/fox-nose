@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cooperation"
+title:  "The Prisoner's Dilemma"
 date:   2019-12-21 13:46:50 -0400
 comments: true
 tags: game-theory, political-economy, economics, politics
@@ -22,4 +22,19 @@ Then, in XXXX, Elinor Ostrom shocks the economics world by telling them what eve
 
 So, where does that all leave us? Our pre-eminent theories of political economy (or of cooperation?) have holes in them. They work, except for when they don't. Capitalism has succeeded in bringing billions out of poverty, but capitalists still can't justify original land ownership. After centuries of state interference, we've learned that maybe, just maybe, local communities can effectively govern themselves, which really is great
 
+
+Why does all this matter? Re-read the above -- our political theories are incomplete!   
+
+
+At the end of the day, failure to cooperate on the prisoner's dilemma means you and all your loved ones die. 
+
+For starters, we're all still here. People learn about the PD, and then 
+
+The standard economic theory of climate change is that we die. Seriously, it's pretty simple -- standard theory says that we all defect on a commons tragedy, and defection of the whole world on climate change leads to pretty morbid outcomes. Here's the catch: Standard 
+
+Standard economic theory says that humans are cold, heartless monsters who will screw each other over every chance we get. And while that's not completely wrong, _it's also not completely right_. 
+
+
 How to cooperate, and if we can at all, is one of the central questions in all of political science and economics. It's the best argument for why government should exist in the first place (governments solve prisoner's dilemmas, making everyone better off), and it's one of the best arguments against governments existing at all (people actually effectively solve prisoners dilemmas on their own, objugating (?) the need for governments at all)
+
+Notes: Scaling up cooperation on the prisoner's dilemma to all of humanity is the central problem of my life!!! And this blog -- it should be how I tie everything together. TLDR is that we cooperate on small scale PDs even though standard theory says we shouldn't be able to, which means that standard theory is wrong, which means we could theoretically cooperate on large scale PDs. How do we scale cooperation?
