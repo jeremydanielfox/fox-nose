@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The government we deserve"
-date:   2020-01-12 13:46:50 -0400
+date:   2020-01-11 13:46:50 -0400
 comments: true
 tags: [voting, politics]
 ---
