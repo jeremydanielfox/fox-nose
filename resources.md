@@ -7,7 +7,7 @@ title: Resources
 Groundbreaking new work of political economy. Shows how we could design new systems in major aspects of society that would make us all better off. See [book review]({% link _posts/2019-09-13-book-review-radical-markets.md %}).
 
 [***Seeing Like a State***](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153) -- 
-Required reading for anyone with grandiose hopes or visions of making the world a better place. In Seeing Like a State, Yale political science professor James C. Scott gives a detailed history of how nation states have attempted to streamline the world in order to make it more administrable, often abusing their subjects in the process. Honestly, this book should be considered paramount for a modern day political science understanding.
+Required reading for anyone with grandiose hopes or visions of making the world a better place. In Seeing Like a State, Yale political science professor James C. Scott gives a detailed history of how nation states have attempted to streamline the world in order to make it more administrable, often abusing their subjects in the process. Honestly, this book should be considered of paramount for a modern day political science understanding.
 
 [***Superintelligence***](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=sr_1_2?keywords=Superintelligence+Nick+Bostrom&qid=1567481399&s=gateway&sr=8-2) --
 Seminal work on dangers due to advanced artificial intelligence. If you've heard of this but haven't read it, you may have wrongly discounted the idea. If you've read the book, well, you're free to think what you want.
