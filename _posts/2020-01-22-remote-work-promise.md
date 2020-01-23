@@ -35,6 +35,6 @@ Given the outsize impact that local policy has on people’s lives, imagine the 
 
 Why stay in the bay area with its complicated housing policy and associated sky high costs, when you can try out a new location with better, cheaper housing that would let you build wealth faster. At the same time, you’ll pick a city that specializes in the things you care about.
 
-Maybe you'll move to a city for its proximity to nature, or maybe you move to one with really good local voting systems. Maybe you really care about walkability, so that's how you pick where to live.
+Maybe you'll move to a city for its proximity to nature, or maybe you move to one with really good local voting systems. Maybe you care most about walkability, so that's how you pick where to live.
 
 More likely though, a truely enterprising policy maker crafts a city that gives you all three, and then a whole lot more.
