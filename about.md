@@ -9,7 +9,7 @@ Quick disclaimer: All opinions in this blog are my own, and are not written on b
 
 # Why did I call this blog Many Fox Given?
 
- For starters, with an awesome name like Fox, you pretty much have to pun off of it. Hence the original, fantastic blog name -- Fox News. Unfortunately, this name presented me with a few problems. First, I had to contend with the fact that a certain corporation owns all the domain names related to "Fox News" -- go figure. Second, I had the much more realistic issue of my high likelihood of growing enormously popular and inevitably being sued by such corporation.
+For starters, with an awesome name like Fox, you pretty much have to pun off of it. Hence the original, fantastic blog name -- Fox News. Unfortunately, this name presented me with a few problems. First, I had to contend with the fact that a certain corporation owns all the domain names related to "Fox News" -- go figure. Second, I had the much more realistic issue of my high likelihood of growing enormously popular and inevitably being sued by such corporation.
 
 With Fox News out of the running, I set off in search of other fox related puns. And as any Google search of "fox puns" will show you, the Internet's favorite fox-related fact is that fox sounds like "fucks". From there, it's a short click to "images", and you end up with a million cute fox cartoons proudly declaring "zero fox given". 
 
