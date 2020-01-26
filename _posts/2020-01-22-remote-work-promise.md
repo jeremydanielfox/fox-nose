@@ -27,7 +27,7 @@ Cities act as [schelling points](https://en.wikipedia.org/wiki/Focal_point_(game
 
 What happens, then, if all of society can move simultaneously? Suddenly, you’ve solved the coordination problem.
 
-When everyone can relocate easily, it becomes possible for cities to quickly attract a lot of residents. Entire friend groups and communities can move together. The role of the city a people attractor intensifies tenfold.
+When everyone can relocate easily, it becomes possible for cities to quickly attract a lot of residents. Entire friend groups and communities can move together. The role of the city as a people attractor intensifies tenfold.
 
 As workers become more liquid, cities will compete for residents, with the cities implementing the most innovative, people-friendly policies rising to the top. When they work correctly, competitive processes optimize our society. Market competition results in better, cheaper products. Democracy (when set up correctly) results in leaders implementing policies to benefit their constituents.
 
