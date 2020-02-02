@@ -1,0 +1,60 @@
+---
+layout: none
+permalink: /keybase.txt
+---
+==================================================================
+https://keybase.io/jeremyfox
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://manyfoxgiven.com
+  * I am jeremyfox (https://keybase.io/jeremyfox) on keybase.
+  * I have a public key ASBiX1Nba773d1UDh_ZE3ZMlFg_X5ytWiizeqKO30pEC_Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010168b0a375eb077af2d1156cef77e729c95878a5c03100a9da4d8462b3b211949a0a",
+      "host": "keybase.io",
+      "kid": "0120625f535b6bbef777550387f644dd9325160fd7e72b568a2cdea8a3b7d29102fd0a",
+      "uid": "aaa61669074f2e14bf976925f70d1c19",
+      "username": "jeremyfox"
+    },
+    "merkle_root": {
+      "ctime": 1580679025,
+      "hash": "01510798dfb729b1cb8d047748a2e745018522732034400a3edf02f350c050831acfaff9f185c8bf82009112e9ca4d366de1fdeaa3e41a503433a9dd28dd5132",
+      "hash_meta": "3354f7463cf45c5035d19d0ab87b463dfcf8f5258983cb9c642106f0315ee427",
+      "seqno": 14462735
+    },
+    "service": {
+      "entropy": "rBEVTEX34cOf7slMDEje5Lv5",
+      "hostname": "manyfoxgiven.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1580679038,
+  "expire_in": 504576000,
+  "prev": "3a6b5ad2b49eacb03e95c98a6f1721ac060987183e6577b47eb6c6991904e5f4",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYl9TW2u+93dVA4f2RN2TJRYP1+crVoos3qijt9KRAv0Kp3BheWxvYWTESpcCD8QgOmta0rSerLA+lcmKbxchrAYJhxg+ZXe0frbGmRkE5fTEIAGBeS47dk5nPoAKTdluLSN0WUSA9+xui4cJgoHN2kNpAgHCo3NpZ8RAexsOrua+tQU/zeMuqOIvQ3/2oTvaBvbTxg0Gn9Ssyt61nTjzKQcwd5Rwc7kxv2K+boeXL4hT3EIUAJCh84QaAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINIVcwiwfOOZwOJLTxXMaJ0DgnS8+lQ01SOQ8JW+c6bZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jeremyfox
+
+==================================================================
